@@ -1,7 +1,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=najirod02&show_icons=true&theme=catppuccin_mocha)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najirod02&hide_progress=true)
-
 <!--
 **najirod02/najirod02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
