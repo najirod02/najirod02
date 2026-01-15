@@ -1,4 +1,4 @@
-📍 Belluno - Italy
+📍 Italy
 
 📚 University of Trento - Computer Science
 
